@@ -6,12 +6,11 @@ I'm a partner at [OpeRH](https://operh.com.br). I'm interested in mathematics an
 
 I also enjoy films and books.
 
-> May beauty be all around me.
-
 ## What I've been working on
 
-- With [latex-ops](https://github.com/pv-ca/latex-ops), I'm developing an agent for working with academic LaTeX.
-- [Flexoki Rams](https://github.com/pv-ca/flexoki-rams) is a KDE Plasma 6 theme with Flexoki colours. It's still in early development.
-- I'm also building `linux-ops` and `business-ops`.
+- [latex-ops](https://github.com/pv-ca/latex-ops): an agent skill for academic LaTeX documents that look published, not exported.
+- [Flexoki Rams](https://github.com/pv-ca/flexoki-rams): a KDE Plasma 6 theme with Flexoki colors and Dieter Rams-inspired design. Early development.
+- [linux-ops](https://github.com/pv-ca/linux-ops): an agent skill for administering the Linux machine the agent runs on. Early draft.
+- [business-ops](https://github.com/pv-ca/business-ops): a plugin for Claude Code and Codex with skills for running a small business: sales, marketing, customer success, finance.
 
 My website: [pvca.io](https://pvca.io)
