@@ -2,7 +2,7 @@
 
 # A little about me
 
-I currently work at [OpeRH](https://operh.com.br). I'm interested in mathematics and AI, as well as Linux and open-source projects.
+I'm a partner at [OpeRH](https://operh.com.br). I'm interested in mathematics and AI, as well as Linux and open-source projects.
 
 I also enjoy films and books.
 
@@ -12,5 +12,6 @@ I also enjoy films and books.
 
 - With [latex-ops](https://github.com/pv-ca/latex-ops), I'm developing an agent for working with academic LaTeX.
 - [Flexoki Rams](https://github.com/pv-ca/flexoki-rams) is a KDE Plasma 6 theme with Flexoki colours. It's still in early development.
+- I'm also building `linux-ops` and `business-ops`.
 
 My website: [pvca.io](https://pvca.io)
