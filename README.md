@@ -7,8 +7,8 @@ I also enjoy films and books.
 
 ## What I've been working on
 
-- [Latex-ops](https://github.com/pv-ca/latex-ops): an agent skill for academic LaTeX documents that look published, not exported.
-- [Flexoki Rams](https://github.com/pv-ca/flexoki-rams): a KDE Plasma 6 theme with Flexoki colors and Dieter Rams-inspired design. Early development.
-- [Linux-ops](https://github.com/pv-ca/linux-ops): an agent skill for administering the Linux machine the agent runs on. Early draft.
-- [Business-ops](https://github.com/pv-ca/business-ops): a plugin for Claude Code and Codex with skills for running a small business: sales, marketing, customer success, finance.
+- [Latex-ops](https://github.com/pv-ca/latex-ops): an agent skill for creating polished LaTeX documents, with attention to typography and layout.
+- [Flexoki Rams](https://github.com/pv-ca/flexoki-rams): a KDE Plasma 6 theme that uses Flexoki colors and a Dieter Rams-inspired design. Early development.
+- [Linux-ops](https://github.com/pv-ca/linux-ops): an agent skill for administering Linux systems, from packages and services to storage, networking, hardware and diagnostics. Early development.
+- [Business-ops](https://github.com/pv-ca/business-ops): a plugin for Claude Code and Codex with skills for sales, marketing, customer success and finance.
 
