@@ -6,8 +6,10 @@ Partner at [OpeRH](https://operh.com.br/). Interested in mathematics, AI, Linux,
 
 ## What I've been working on
 
-- [Business-ops](https://github.com/pv-ca/business-ops): a plugin for Claude Code and Codex with skills for sales, marketing, customer success and finance.
-- [Latex-ops](https://github.com/pv-ca/latex-ops): an agent skill for creating polished LaTeX documents, with attention to typography and layout.
-- [Linux-ops](https://github.com/pv-ca/linux-ops): an agent skill for managing Linux systems, from packages and services to storage, networking, hardware and diagnostics. Early development.
-- [Flexoki Rams](https://github.com/pv-ca/flexoki-rams): a KDE Plasma 6 theme that uses Flexoki colors and a Dieter Rams-inspired design. Early development.
+| Project | What it is |
+| --- | --- |
+| [business-ops](https://github.com/pv-ca/business-ops) | Plugin for Claude Code and Codex: sales, marketing, customer success and finance. |
+| [latex-ops](https://github.com/pv-ca/latex-ops) | Agent skill for polished LaTeX, with attention to typography and layout. |
+| [linux-ops](https://github.com/pv-ca/linux-ops) | Agent skill for managing Linux systems. Early development. |
+| [Flexoki Rams](https://github.com/pv-ca/flexoki-rams) | KDE Plasma 6 theme: Flexoki colors, Dieter Rams-inspired. Early development. |
 
